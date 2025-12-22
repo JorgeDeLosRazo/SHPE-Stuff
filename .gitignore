@@ -1,0 +1,5 @@
+*.lck
+*kicad_prl
+*kicad_sch-bak
+SHPE_Keychains-backups
+fp-info-cache
