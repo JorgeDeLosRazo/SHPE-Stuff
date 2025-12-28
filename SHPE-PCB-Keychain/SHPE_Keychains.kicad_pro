@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_over_copper|143338696|58261905|49dddf2f-eeb5-4afe-9e72-5cf709b92c56|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -487,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../OneDrive/Desktop/keychain pcb files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
